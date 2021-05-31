@@ -14,3 +14,5 @@ int main ()
     cout<<endl;
     cout<<"Energi Potensialnya = "<<ep(massa,grav,tinggi)<<" Joule"<<endl;
 }
+
+disini baris baru rumus lingkaran
