@@ -7,6 +7,7 @@ int gaya (int m, int a)
 int main ()
 {
     int massa, percepatan;
+    cout<<"RUMUS FISIKA"<<endl;
     cout<<"MENGHITUNG GAYA"<<endl;
     cout<<endl;
     cout<<" Massa Benda  : ";cin>>massa;
