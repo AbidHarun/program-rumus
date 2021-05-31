@@ -1,2 +1,2 @@
-# website-perpustakaan
-website ini merupakan website perpustakaan simpel yang bisa diterapkan pada perpustakaan sekolah atau perpustakkan umum
+# program-rumus
+program ini berisi beberapa rumus tentang matematika ataupun fisika. program ini bekerja dalam bahasa pemograman cpp
